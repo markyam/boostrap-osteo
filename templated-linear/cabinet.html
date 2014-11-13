@@ -12,9 +12,11 @@
 		<meta name="keywords" content="" />
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
 		<script src="js/init.js"></script>
+		<script src="js/script.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -51,10 +53,23 @@
 			<div id="content" class="container">
 				<section>
 					<header>
-						<h2>No Sidebar</h2>
-						<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+						<h2>Contact</h2>
+						<span class="byline">Emplacement du cabinet</span>
 					</header>
-					<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. Fusce odio. Etiam arcu dui, faucibus eget, placerat vel, sodales eget, orci. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec nonummy magna quis risus. Quisque eleifend. Phasellus tempor vehicula justo. Aliquam lacinia metus ut elit. Donec nonummy magna quis risus. Quisque eleifend. Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec nonummy magna quis risus. Quisque eleifend. Phasellus tempor vehicula justo. Aliquam lacinia metus ut elit.</p>						
+					<div class="row">
+						<div class="4u">
+							<address>
+					            <strong>Cabinet Ostéopathie Vincent Bredeloup</strong><br>
+					                2 rue des Vergers<br>
+					                91250 Saintry Sur Seine<br>
+					                Essonne<br>
+					                France<br>
+									<abbr>P: </abbr>06 75 35 44 07
+							</address>
+						</div>
+						<div id="map_canvas" class="8u"></div>
+						<div class="2u"><br /></div>
+					</div>
 				</section>
 			</div>
 		</div>
@@ -77,12 +92,35 @@
 					<h2>Me contacter</h2>
 					<span class="byline">Une question ? Demande de RDV ?</span>
 				</header>
-				<ul class="social">
-					<li><input name="name" placeholder="Name" type="text" /></li>
-					<li><input name="email" placeholder="Email" type="text" /></li>
-					<li><textarea name="message" placeholder="Message"></textarea></li>
-					<li><input type="submit" value="Send Message" /></li>
-				</ul>
+				<div class="row">
+					<div class="2u"><br /></div>
+					<section class="8u">
+						<form method="post" action="#">
+							<div class="row collapse-at-2 half">
+								<div class="6u">
+									<input name="name" placeholder="Nom" type="text" />
+								</div>
+								<div class="6u">
+									<input name="email" placeholder="Email" type="text" />
+								</div>
+							</div>
+							<div class="row half">
+								<div class="12u">
+									<textarea name="message" placeholder="Message"></textarea>
+								</div>
+							</div>
+							<div class="row collapse-at-2 half">
+								<div class="6u">
+									<input type="submit" value="Envoyer" />
+								</div>
+								<div class="6u">
+									<input type="reset" value="Reset" />
+								</div>
+							</div>
+						</form>
+					</section>
+					<section class="2u"></section>
+				</div>
 			</div>
 		</div>
 
