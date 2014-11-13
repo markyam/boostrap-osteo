@@ -1119,10 +1119,10 @@
 /* Maps                                                                         */
 /*********************************************************************************/
 
-#map_canvas {
-	height: 440px;
-	background-color: #CCC;
-	padding: 20px;
-	border: 2px solid #CCC;
+#map_canvas_marker, #map_canvas_circle {
+    height: 440px;
+    background-color: #CCC;
+    border: 2px solid #CCC;
+    padding: 20px;
 	margin-bottom: 20px;
 }
