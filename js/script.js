@@ -4,14 +4,14 @@ $(document).ready(function() {
     $( "#circle" ).click(function() {
         $( "#map_canvas_marker" ).hide();
         $( "#map_canvas_circle" ).fadeIn("slow");
-        initialize_circles();
+        initialize_circle();
     });
 });
 
 function initialize_marker() {
     var myLatlng = new google.maps.LatLng(48.5976105,2.4929845);
     var mapOptions = {
-        zoom: 9,
+        zoom: 12,
         center: myLatlng
     }
     var map = new google.maps.Map(document.getElementById('map_canvas_marker'), mapOptions);
@@ -24,8 +24,8 @@ function initialize_marker() {
     google.maps.event.addDomListener(window, 'load', initialize_marker);
 }
 
-function initialize_circles() {
-    var kmRadius = 25;
+function initialize_circle() {
+    var kmRadius = 20;
     var position = new google.maps.LatLng(48.5976105,2.4929845);
     var mapOptions = {
         zoom: 9,
@@ -44,5 +44,5 @@ function initialize_circles() {
         radius: kmRadius * 1000
     });
 
-    google.maps.event.addDomListener(window, 'load', initialize_circles);
+    google.maps.event.addDomListener(window, 'load', initialize_circle);
 }
