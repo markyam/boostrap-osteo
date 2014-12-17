@@ -1,5 +1,4 @@
 <?php 
-//$action=$_REQUEST['action']; 
 if (!isset($_REQUEST['action']))    /* display the contact form */ 
 { 
 ?>

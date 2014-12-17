@@ -137,7 +137,14 @@
 <div id="tweet">
 	<div class="container">
 		<section>
-			<blockquote>&ldquo; Je crois que la loi de la vie lorsqu'elle est sagement comprise, est à la fois simple et naturelle. - Andrew T. Still&rdquo;</blockquote>
+			<blockquote>
+				Parmi les motifs de consultation décris ci-dessous, votre ostéopathe vous indiquera si:
+				<ul>
+					<li>- Une prise en charge uniquement ostéopathique suffit</li>
+					<li>- Une collaboration avec d'autres professions médicales est nécessaire</li>
+					<li>- Un traitement uniquement médical ou des examens complémentaires sont impératifs à effectuer dans un premier temps</li>
+				</ul>
+			</blockquote>
 		</section>
 	</div>
 	<div class="clear:both;"></div>

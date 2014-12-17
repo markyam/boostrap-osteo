@@ -13,17 +13,16 @@
 				<header>
 					<span class="byline" style="color: #80BA8E;">Définition</span>
 				</header>
-				<p>Origine : Symbolisme Stillien : <b>Structure comprimante + Structure comprimée = Fonction perturbée.</b></p>
-				<p>Définition : L’ostéopathie est mise au point au 19eme siècle aux états unis par Andrew Taylor still, médecin et ingénieur. 
-				Il part du principe de base que pour être en bonne santé, le corps doit bien bouger. Visée globale et non pas orthopédique.</p>
-				<p>But : <b>Rétablir dans le corps des rapports normaux entre les articulations.</b></p>
-				<p>Toute perte de mobilité des articulations, des muscles, des ligaments ou des viscères peut provoquer un déséquilibre de l’état de santé.
-				L’ostéopathie est fondée sur la capacité du corps à s’auto équilibrer et sur une connaissance approfondie de l’anatomie.</p>
-				<p>Toutes perturbations de ces articulations peuvent entrainer une perturbation des membres de cette articulation.</p>
-				<p>Technique Ostéopathique : Consiste en des mesures destinées d’abord à diagnostiquer l’origine mécanique éventuelle du trouble.</p>
-				<p><b>Par des techniques douces et adaptées, il aidera à soulager la douleur et permet d’éviter la chronicité</b></p>
+				<p>L'ostéopathie est une méthode de soins manuelle . Elle a pour but d'aider et d'accompagner le corps dans sa capacité d'auto-guérison, pour rétablir au mieux les structures et les fonctions de celui ci.</p>
+				<p>L'ostéopathe agit avec ses mains sur les os, les muscles, les viscères ou encore les articulations grâces a différentes manipulations.</p>
+				<p>Il cherche a rétablir une harmonie et un équilibre du système musculo-squelettique du patient avec une vision globale.</p>
+				<p>Un critère important pour un ostéopathe est la mobilité : les différentes structures du corps doivent être les plus mobiles et relâchées possible pour garantir un bon état de santé.</p>
+				<p>Que la douleur soit aiguë ou chronique, l'ostéopathe recherchera l'origine des symptômes en questionnant le patient sur ses antécédents et en effectuant des tests palpatoirs.</p>
+				<p>Il sera alors amené à traiter directement la région anatomique où siège la douleur, mais pourra également avoir une action sur d'autres zones susceptibles d’êtres impliquées.</p>
+				<p>Dans tous les cas l'ostéopathe choisira les techniques qui lui semblent les plus appropriées pour soigner le patient.</p>
+				<p>Une collaboration avec les autres professions médicales est indispensable dans la suivie globale du patient ( médecins, kiné, dentiste, podologue, psychomotricien,ophtalmologistes, psychologue, orthodontiste, orthophonistes, chirurgiens, infirmiers etc... ) </p>
 
-				<header>
+				<!-- <header>
 					<span class="byline" style="color: #80BA8E;">La palpation en pathologie</span>
 				</header>
 				<p>Pour soulager son patient, l’ostéopathe ne se sert que de ses mains. Il examine son patient dans sa <b>globalité</b> afin de trouver <b>l’origine de ses symptômes</b>.
@@ -45,7 +44,7 @@
 						<li>Fonction perturbée affectant l’homéostasie</li>
 						<li>Changement locaux ou fonctionnels suivant la correction</li>
 					</ul>
-				</p>
+				</p> -->
 				<header>
 					<span class="byline"><b>Le déroulement d'une séance</b></span>
 				</header>
@@ -54,24 +53,23 @@
 					<span class="byline" style="color: #80BA8E;">L’anamnèse</span>
 				</header>
 				<p>Dans sa relation avec le patient, <b>l’ostéopathe est à votre écoute pour cibler votre motif de consultation ainsi que les signes associés</b>, vos antécédents médicaux, chirurgicaux, traumatiques et familiaux (si possible prévoir les examens complémentaires déjà réalisés, radiologies, en votre possession….).
-				L’Ostéopathe enquête aussi sur votre mode de vie : sommeil, stress, alimentation, sédentarité, activité physique, activité professionnelle….
+				L’Ostéopathe enquête aussi sur votre mode de vie : sommeil, stress, alimentation, sédentarité, activité physique, activité professionnelle…. Le praticien commence par poser des questions précises pour s'assurer que le patient peut recevoir un traitement ostéopathique et qu'il ne nécessite pas en premier lieu, une prise en charge médicale. Ce sont les diagnostiques différentiels.
 				<b>Toutes ces informations permettent à votre Ostéopathe d’aboutir à un diagnostic le plus précis possible.</b></p>
 				<header>
 					<span class="byline" style="color: #80BA8E;">Les tests</span>
 				</header>
-				<p>Après interrogatoire on passe à l’examen visuel :</p> 
-				<p>Statique : Posture « agencement », volume et cicatrices, appréciation des couleurs.</p>
-				<p>Dynamique : Exemple pour les genoux (flexion, extension), Cervicales (flexion, extension)</p>
-				<p>Palpatoire : Test « clinique » de douleur ou de compression. <b>On doit pouvoir à ce stade du mode opératoire, identifier la structure.</b></p>
-				<p>Test « cinématique » de raideur pour identifier le déficit de mobilité.</p>
-				<p>L’Ostéopathe vérifie que le motif de consultation rentre bien dans ses compétences en effectuant l’ensemble des tests d’exclusion : <b>si nécessaire et dans le cas de contre-indication, l’Ostéopathe redirige son patient vers son médecin traitant.</b></p>
-				<p>L’ostéopathe teste ensuite l’ensemble des différentes structures du corps : la <b>mobilité</b>, la <b>motilité</b> de ces structures afin de faire apparaitre la ou les causes de la douleur et <b>d’établir un diagnostic ostéopathique.</b></p>
+				<p>Observation : examen visuel de la posture du patient, examen de la peau, éventuelles cicatrices etc...</p>
+				<p>Palpation : L'ostéopathe effectuera des test actifs ( avec participation du patient ) ou passifs (mobilisation par le praticien ) sur les différentes régions anatomiques à investiguer.</p>
+				<p>Ces tests pourront s'effectuer en position debout, assise ou allongée. </p>
+				<p>L'ostéopathe appréciera alors la mobilité, la densité et la fonctionnalité des zones investiguées.</p>
+				<p>De plus, pour certains motifs de consultation, le praticien effectuera des tests dit « d'exclusion » qui lui permettront d'écarter certaine pathologies qui ne peuvent pas être prise en charge en ostéopathie.</p>
 				<header>
 					<span class="byline" style="color: #80BA8E;">Le traitement</span>
 				</header>
-				<p>Suite au diagnostic Ostéopathique posé, l’ostéopathe <b>corrige</b> les dysfonctions trouvées lors des tests en lien avec le bilan de l’anamnèse de son patient, il pratique différentes techniques ostéopathiques référencées pour <b>permettre au corps de s’auto-réguler.</b></p>
+				<p>L'ostéopathe recoupe les informations qu'il a reçu lors de l'anamnèse et des tests. Il peut ainsi établir un diagnostique et proposer un traitement adapté aux maux et au patient.</p>
+				<p>Dans son traitement, le praticien utilisera plusieurs types de techniques décrites ci après.</p>
 
-				<header>
+				<!-- <header>
 					<span class="byline"><b>A qui s'adresse l'ostéopathie ?</b></span>
 					<span class="byline" style="color: #80BA8E;">L'ostéopathie pour tous</span>
 				</header>
@@ -87,7 +85,7 @@
 						<li><b>Après l’effort</b> : afin d’accélérer le processus de récupération</li>
 						<li>Pour traiter toute pathologie traumatique qui rentre dans son champs de compétences</li>
 					</ul>
-				</p>
+				</p> -->
 				<header>
 					<span class="byline"><b>Champs d'applications de l'ostéopathie</b></span>
 				</header>
