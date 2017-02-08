@@ -2,8 +2,15 @@
 	<div id="footer">
 		<div class="container">
 			<header>
-				<h2>Me contacter</h2>
-				<span class="byline">Une question ? Demande de RDV ?</span>
+				<!--<div class="row collapse-at-2 half">
+					<div class="8u">-->
+						<h2>Me contacter</h2>
+						<span class="byline">Une question ? Demande de RDV ?</span>
+					<!--</div>
+					<div class="1u">
+						<h2>PHOTO</h2>
+					</div>
+				</div>-->
 			</header>
 			<div class="row">
 				<div class="2u"><br /></div>

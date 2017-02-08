@@ -9,6 +9,10 @@
 		</header>
 		<p>Votre ostéopathe, <strong>Vincent Bredeloup</strong>, est diplomé de l'Institut Privé d'Enseignement Ostéopathique (<a href="http://www.institut-ipeo.fr/">IPEO</a>) depuis Octobre 2013.</p>
 		<p>Certification <a href="http://www.osteovox.org/index.php?page=formations-2">Osteovox</a> pour les dysfonctionnements cervico-maxillo-faciales depuis Juillet 2014</p>
+		<p>Formation pour les nourrissons en 2016</p>
+		<div class="12u">
+			<a target="_blank" href="https://www.doctolib.fr/osteopathe/saintry-sur-seine/vincent-bredeloup" title="Vincent BREDELOUP - Ostéopathe Saintry-sur-Seine" class="button button-style1">Prendre rendez-vous en ligne</a>
+		</div>
 		<hr />
 		<div class="row">
 			<section class="4u">
@@ -56,7 +60,7 @@
 					<li>Régurgitation, constipation, coliques</li>
 					<li>Sommeil perturbé</li>
 				</ul>
-			</section>				
+			</section>
 			<section class="6u">
 				<a class="image full"><img src="images/pic02.jpg" alt=""></a>
 				<header>
@@ -70,7 +74,7 @@
 					<li>Problèmes dentaires et collaboration avec le travail d'un orthodontiste</li>
 					<li>Sommeil perturbé</li>
 				</ul>
-			</section>				
+			</section>
 		</div>
 
 		<div class="row">
@@ -86,7 +90,7 @@
 					<li>Stress, angoisse, états dépressifs, troubles du sommeil, irritabilité</li>
 					<li>Jambes lourdes, travail de cicatrices, séquelles de traumatisme, problème de concentration, baisse de la vitalité, fatigue chronique, dépression</li>
 				</ul>
-			</section>				
+			</section>
 			<section class="6u">
 				<a class="image full"><img src="images/pic04.jpg" alt=""></a>
 				<header>
@@ -129,7 +133,7 @@
 					<li>Engourdissement des membres</li>
 					<li>Maladies dégénératives : Parkinson (traitement de confort)</li>
 				</ul>
-			</section>				
+			</section>
 		</div>
 	</div>
 </div>
